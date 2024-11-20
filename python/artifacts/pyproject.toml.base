@@ -10,7 +10,7 @@ authors = [
 description = "Qt Design Studio components for PySide6"
 readme = "README.md"
 dynamic = ["version"]
-requires-python = ">=3.8, <3.13"
+requires-python = ">=3.8, <3.14"
 keywords = ["Qt"]
 # Starting from Qt DS 4.4, Qt 6.5 is being used, so it's our minimum requirement.
 dependencies = ["PySide6>=6.5"]
@@ -37,6 +37,7 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
     "Topic :: Database",
     "Topic :: Software Development",
     "Topic :: Software Development :: Code Generators",
